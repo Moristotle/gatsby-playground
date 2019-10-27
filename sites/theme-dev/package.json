@@ -1,0 +1,17 @@
+{
+  "name": "theme-dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mori Diakite <moridiakite@hotmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "develop": "gatsby develop"
+  },
+  "dependencies": {
+    "gatsby": "^2.17.4",
+    "gatsby-theme-docs": "*",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  }
+}
